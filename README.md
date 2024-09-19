@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/51eb02a3-8b8e-4b3f-8920-e3873a2b6ac7)
 
 <!--
 **HUEY-news/HUEY-news** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
