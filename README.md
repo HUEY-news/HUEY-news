@@ -4,6 +4,9 @@
   <img src="https://github.com/user-attachments/assets/33b57542-a572-4ec3-8d1c-dba9e24b9841"/>
   </div>
 
+## About me:
+---
+
 <!--
 **HUEY-news/HUEY-news** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
