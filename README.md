@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hi there 👋</h1>
-  <h1>I’m an ANDROID developer from St.Petersburg</h1>
+  <h3>Hi there 👋</h3>
+  <h5>I’m an ANDROID developer from St.Petersburg</h5>
   <img src="https://github.com/user-attachments/assets/33b57542-a572-4ec3-8d1c-dba9e24b9841"/>
   </div>
 
