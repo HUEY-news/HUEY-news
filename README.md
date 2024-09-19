@@ -1,8 +1,9 @@
 <div id="header" align="center">
+  </div>
   <h1>Hi there 👋</h1>
   <h3>![image](https://github.com/user-attachments/assets/33b57542-a572-4ec3-8d1c-dba9e24b9841)</h3>
   <h3>I’m an ANDROID developer from St.Petersburg</h3>
-</div>
+
 
 
 ## Hi there 👋
