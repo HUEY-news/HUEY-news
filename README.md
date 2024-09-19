@@ -1,8 +1,8 @@
 <div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/33b57542-a572-4ec3-8d1c-dba9e24b9841"/>
   <h3>Hi there 👋</h3>
   <h5>I’m an ANDROID developer from St.Petersburg</h5>
-  <img src="https://github.com/user-attachments/assets/33b57542-a572-4ec3-8d1c-dba9e24b9841"/>
-  </div>
+</div>
 
 <!--
 **HUEY-news/HUEY-news** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
