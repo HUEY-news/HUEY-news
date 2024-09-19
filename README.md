@@ -18,7 +18,7 @@
 <div id="tools" align="center">
   <h3>Languages and Tools</h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg"
     title="Android Studio" width="70" height="70" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg"
     title="Kotlin" width="70" height="70" />&nbsp;
