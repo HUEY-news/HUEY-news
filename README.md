@@ -32,5 +32,5 @@
   <h3>Tech stack</h3>
   Coroutines Flow, RxJava, 
   Clean Architecture, MVC, MVP, MVVM, <br/>
-  Jetpack Navigation, Koin, REST, Retrofit, Glide, Room, Gradle
+  Jetpack Navigation, Koin, Dagger Hilt, REST, Retrofit, Glide, Room, Gradle
 </div>
