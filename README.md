@@ -32,5 +32,6 @@
   <h3>Tech stack</h3>
   Coroutines Flow, RxJava, 
   Clean Architecture, MVC, MVP, MVVM, <br/>
-  Jetpack Compose, Jetpack Navigation, Koin, Hilt, Dagger, Retrofit, Room, Gradle
+  Jetpack Compose, Jetpack Navigation, Koin, Hilt, Dagger, Retrofit, Room, Gradle <br/>
+  Testing: Flow, Mockito, JUnit
 </div>
