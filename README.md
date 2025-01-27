@@ -30,8 +30,7 @@
 <!-- ТЕХНОЛОГИЧЕСКИЙ СТЕК -->
 <div id="stack" align="center">
   <h3>Tech stack</h3>
-  Coroutines Flow, RxJava, 
-  Clean Architecture, MVC, MVP, MVVM, <br/>
-  Jetpack Compose, Jetpack Navigation, Koin, Hilt, Dagger, Retrofit, Room, Gradle <br/>
+  Coroutines Flow, RxJava, Clean Architecture, MVC, MVP, MVVM, <br/>
+  XML, Jetpack Compose, Jetpack Navigation, Koin, Hilt, Dagger, Retrofit, Room, Gradle <br/>
   Testing: JUnit, Mockito, Turbine
 </div>
