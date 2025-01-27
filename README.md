@@ -33,5 +33,5 @@
   Coroutines Flow, RxJava, 
   Clean Architecture, MVC, MVP, MVVM, <br/>
   Jetpack Compose, Jetpack Navigation, Koin, Hilt, Dagger, Retrofit, Room, Gradle <br/>
-  Testing: Flow, Mockito, JUnit
+  Testing: JUnit, Mockito, Turbine
 </div>
